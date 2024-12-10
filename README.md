@@ -65,4 +65,7 @@ Users can search for news or it will load the latest headlines on refresh / inti
 </p>
 
 
+<h1>Firebase Console</h1>
+<img src="https://github.com/user-attachments/assets/9d464e5a-6409-48fb-82d0-5f9faa87bba2" width="600" height="600"/>
+
 
